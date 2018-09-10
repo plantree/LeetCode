@@ -6,6 +6,6 @@
 具体的顺序，还是按照不同的专题：
 
 1. Array
-   1. [Remove Element]()
+   1. [Remove Element](https://github.com/plantree/LeetCode/blob/master/Array/RemoveElement.cc)
    2. ​
 2. ​
