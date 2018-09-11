@@ -7,5 +7,9 @@
 
 1. Array
    1. [Remove Element](https://github.com/plantree/LeetCode/blob/master/Array/RemoveElement.cc)
-   2. ​
+   2. [Remove Duplicates From Sorted Array](https://github.com/plantree/LeetCode/blob/master/Array/RemoveDuplicatesFromSortedArray.cc)
+   3. [Remove Duplicates From Sorted Array 2](https://github.com/plantree/LeetCode/blob/master/Array/RemoveDuplicatesFromSortedArray2.cc)
+   4. [Plus One](https://github.com/plantree/LeetCode/blob/master/Array/PlusOne.cc)
+   5. [Pascal's Triangle](https://github.com/plantree/LeetCode/blob/master/Array/PascalTriangle.cc)
+   6. ​
 2. ​
